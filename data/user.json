@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "name": "Brandon",
+            "password": "103,-34,116,-109,-46,37,-5,-83,-104,98,50,-75,-17,95,-110,36",
+            "isDeveloper": false,
+            "data": "test test testy message"
+        },
+        {
+            "name": "Developer",
+            "password": "103,-34,116,-109,-46,37,-5,-83,-104,98,50,-75,-17,95,-110,36",
+            "isDeveloper": true,
+            "data": "Program developer."
+        },
+		{
+			"name": "Alex",
+			"password": "89,-101,-109,-103,-46,-79,13,-109,101,120,51,-52,28,-40,62,-105",
+			"isDeveloper": false,
+			"data": ""
+		},
+        {
+            "name": "John",
+            "password": "103,-34,116,-109,-46,37,-5,-83,-104,98,50,-75,-17,95,-110,36",
+            "isDeveloper": false,
+            "data": "John Doe user."
+        },
+        {
+            "name": "Jane",
+            "password": "103,-34,116,-109,-46,37,-5,-83,-104,98,50,-75,-17,95,-110,36",
+            "isDeveloper": false,
+            "data": "Jane Doe user."
+        }
+    ]
+}

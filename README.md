@@ -3,7 +3,14 @@
 
 Some buildings are included: Middlesex College, Western Science Center, University College.
 
-This was a five person group project written in Java, with the GUI created using Swing with the help of the NetBeans IDE. Javadocs and JUnit tests included.
+This program was written in Java, with the GUI created using Swing with the help of the NetBeans IDE. Javadocs and JUnit tests included.
+
+### Authors
+- Brandon Luu
+- Jacob Ender
+- Alexander Kazachek
+- Scott Anthony Quinn
+- Michael Ritacco
 
 ![Map viewer preview](https://i.imgur.com/fat1pIY.png)
 
